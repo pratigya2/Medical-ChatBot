@@ -1,6 +1,6 @@
 # Medical-ChatBot
 #Medical ChatBot using LLAMA2
-# ![Medi-Bot](static\output.png) Medi-Bot
+# ![Medical-ChatBot](static\output.png) Medi-Bot
 
 Medi-Bot is an AI-powered medical assistant designed to provide instant healthcare information and assistance. Utilizing advanced language models and machine learning algorithms, Medi-Bot engages users in real-time conversations, offering medical advice, symptom analysis, and healthcare recommendations.
 
